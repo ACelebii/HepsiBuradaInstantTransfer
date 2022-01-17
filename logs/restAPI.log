@@ -1,0 +1,70 @@
+
+
+2021-01-07 19:38:50 INFO  HepsiBurada UI Automation:77 - Go To HepsiBurada Web Page
+2021-01-07 19:38:59 INFO  HepsiBurada UI Automation:82 - Verify HepsiBurada Web Page From Title
+2021-01-07 19:38:59 INFO  HepsiBurada UI Automation:27 -
+2021-01-07 19:39:13 INFO  HepsiBurada UI Automation:93 - Close Browser
+2022-01-08 00:25:25 INFO  Hepsi Burada UI Automation:81 - Go To HepsiBurada Web Page
+2022-01-08 00:25:39 INFO  Hepsi Burada UI Automation:86 - Verify HepsiBurada Web Page From Title
+2022-01-08 00:25:39 INFO  Hepsi Burada UI Automation:30 - Case 1 : Enter Login Hepsi Burada
+2022-01-08 00:25:39 INFO  Hepsi Burada UI Automation:33 - Go To Hepsi Burada Login Screen
+2022-01-08 00:25:42 INFO  Hepsi Burada UI Automation:40 - Set Mail and Password in Login Screen
+2022-01-08 00:25:49 INFO  Hepsi Burada UI Automation:47 - Check Successful login Control
+2022-01-08 00:26:00 INFO  Hepsi Burada UI Automation:54 - Go To Books Page
+2022-01-08 00:26:06 INFO  Hepsi Burada UI Automation:59 - Add Book to Basket
+2022-01-08 00:26:22 INFO  Hepsi Burada UI Automation:71 - Select Bank for Instant Transfer
+2022-01-08 00:26:24 INFO  Hepsi Burada UI Automation:78 - Control Back Account Name in Summary Screen
+2022-01-08 00:28:31 INFO  Hepsi Burada UI Automation:81 - Go To HepsiBurada Web Page
+2022-01-08 00:28:58 INFO  Hepsi Burada UI Automation:86 - Verify HepsiBurada Web Page From Title
+2022-01-08 00:28:58 INFO  Hepsi Burada UI Automation:30 - Case 1 : Enter Login Hepsi Burada
+2022-01-08 00:28:58 INFO  Hepsi Burada UI Automation:33 - Go To Hepsi Burada Login Screen
+2022-01-08 00:29:02 INFO  Hepsi Burada UI Automation:40 - Set Mail and Password in Login Screen
+2022-01-08 00:29:11 INFO  Hepsi Burada UI Automation:47 - Check Successful login Control
+2022-01-08 00:29:54 INFO  Hepsi Burada UI Automation:54 - Go To Books Page
+2022-01-08 00:30:10 INFO  Hepsi Burada UI Automation:59 - Add Book to Basket
+2022-01-08 00:30:42 INFO  Hepsi Burada UI Automation:71 - Select Bank for Instant Transfer
+2022-01-08 00:30:44 INFO  Hepsi Burada UI Automation:78 - Control Back Account Name in Summary Screen
+2022-01-10 01:16:07 INFO  Hepsi Burada UI Automation:81 - Go To HepsiBurada Web Page
+2022-01-10 01:16:19 INFO  Hepsi Burada UI Automation:86 - Verify HepsiBurada Web Page From Title
+2022-01-10 01:16:20 INFO  Hepsi Burada UI Automation:30 - Case 1 : Enter Login Hepsi Burada
+2022-01-10 01:16:20 INFO  Hepsi Burada UI Automation:33 - Go To Hepsi Burada Login Screen
+2022-01-10 01:16:24 INFO  Hepsi Burada UI Automation:40 - Set Mail and Password in Login Screen
+2022-01-10 01:16:31 INFO  Hepsi Burada UI Automation:47 - Check Successful login Control
+2022-01-10 01:16:40 INFO  Hepsi Burada UI Automation:54 - Go To Books Page
+2022-01-10 01:16:49 INFO  Hepsi Burada UI Automation:59 - Add Book to Basket 
+2022-01-10 01:17:24 INFO  Hepsi Burada UI Automation:71 - Select Bank for Instant Transfer
+2022-01-10 01:17:26 INFO  Hepsi Burada UI Automation:78 - Control Back Account Name in Summary Screen
+2022-01-17 12:09:57 INFO  Hepsi Burada Automation:69 - Go To HepsiBurada Web Page
+2022-01-17 12:10:03 INFO  Hepsi Burada Automation:74 - Verify HepsiBurada Web Page From Title
+2022-01-17 12:10:03 INFO  Hepsi Burada Automation:22 - Case 1 : Enter Login Hepsi Burada
+2022-01-17 12:10:03 INFO  Hepsi Burada Automation:23 - Go To Hepsi Burada Login Screen
+2022-01-17 12:10:06 INFO  Hepsi Burada Automation:27 - Set Mail and Password in Login Screen
+2022-01-17 12:10:12 INFO  Hepsi Burada Automation:34 - Check Successful login Control
+2022-01-17 12:10:51 INFO  Hepsi Burada Automation:69 - Go To HepsiBurada Web Page
+2022-01-17 12:10:57 INFO  Hepsi Burada Automation:74 - Verify HepsiBurada Web Page From Title
+2022-01-17 12:10:57 INFO  Hepsi Burada Automation:22 - Case 1 : Enter Login Hepsi Burada
+2022-01-17 12:10:57 INFO  Hepsi Burada Automation:23 - Go To Hepsi Burada Login Screen
+2022-01-17 12:11:00 INFO  Hepsi Burada Automation:27 - Set Mail and Password in Login Screen
+2022-01-17 12:11:05 INFO  Hepsi Burada Automation:34 - Check Successful login Control
+2022-01-17 12:11:15 INFO  Hepsi Burada Automation:40 - Go To Books Page
+2022-01-17 12:11:22 INFO  Hepsi Burada Automation:45 - Add Book to Basket 
+2022-01-17 12:22:56 INFO  Hepsi Burada Automation:69 - Go To HepsiBurada Web Page
+2022-01-17 12:23:01 INFO  Hepsi Burada Automation:74 - Verify HepsiBurada Web Page From Title
+2022-01-17 12:23:01 INFO  Hepsi Burada Automation:22 - Case 1 : Enter Login Hepsi Burada
+2022-01-17 12:23:01 INFO  Hepsi Burada Automation:23 - Go To Hepsi Burada Login Screen
+2022-01-17 12:23:04 INFO  Hepsi Burada Automation:27 - Set Mail and Password in Login Screen
+2022-01-17 12:23:09 INFO  Hepsi Burada Automation:34 - Check Successful login Control
+2022-01-17 12:23:19 INFO  Hepsi Burada Automation:40 - Go To Books Page
+2022-01-17 12:23:28 INFO  Hepsi Burada Automation:45 - Add Book to Basket 
+2022-01-17 12:23:42 INFO  Hepsi Burada Automation:55 - Select Bank for Instant Transfer
+2022-01-17 12:23:44 INFO  Hepsi Burada Automation:61 - Control Back Account Name in Summary Screen
+2022-01-17 14:25:22 INFO  Hepsi Burada Automation:69 - Go To HepsiBurada Web Page
+2022-01-17 14:25:27 INFO  Hepsi Burada Automation:74 - Verify HepsiBurada Web Page From Title
+2022-01-17 14:25:27 INFO  Hepsi Burada Automation:22 - Case 1 : Enter Login Hepsi Burada
+2022-01-17 14:25:27 INFO  Hepsi Burada Automation:23 - Go To Hepsi Burada Login Screen
+2022-01-17 14:25:30 INFO  Hepsi Burada Automation:27 - Set Mail and Password in Login Screen
+2022-01-17 14:25:35 INFO  Hepsi Burada Automation:34 - Check Successful login Control
+2022-01-17 14:25:46 INFO  Hepsi Burada Automation:40 - Go To Books Page
+2022-01-17 14:25:52 INFO  Hepsi Burada Automation:45 - Add Book to Basket 
+2022-01-17 14:26:06 INFO  Hepsi Burada Automation:55 - Select Bank for Instant Transfer
+2022-01-17 14:26:08 INFO  Hepsi Burada Automation:61 - Control Back Account Name in Summary Screen

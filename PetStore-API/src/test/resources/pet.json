@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "category": {
+    "id": 1,
+    "name": "string"
+  },
+  "name": "grtybc",
+  "photoUrls": [
+    "avcı.png"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "krcerx"
+    }
+  ],
+  "status": "available"
+}
