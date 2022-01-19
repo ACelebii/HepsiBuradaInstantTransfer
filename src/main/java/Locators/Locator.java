@@ -1,7 +1,5 @@
 package Locators;
-/**
- * Created by onur on 07/01/22.
- */
+
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
